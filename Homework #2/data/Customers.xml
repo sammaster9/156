@@ -1,0 +1,35 @@
+<list>
+  <Customers>
+    <customerCode>4444t</customerCode>
+    <type>C</type>
+    <primaryContact>
+      <personCode>4444t</personCode>
+      <name>Tucker.Hochstein@yahoo.com</name>
+      <email2>Hochstein, Tucker</email2>
+    </primaryContact>
+    <company>DBI-Doing Better Inspections</company>
+  </Customers>
+  <Customers>
+    <customerCode>75486</customerCode>
+    <type>G</type>
+    <primaryContact>
+      <personCode>75486</personCode>
+      <name> Sammaster6@gmail.com</name>
+      <email2>Connor, Sam</email2>
+    </primaryContact>
+    <company>University of Illinois</company>
+  </Customers>
+  <Customers>
+    <customerCode>355b</customerCode>
+    <type>C</type>
+    <primaryContact>
+      <personCode>355b</personCode>
+      <name>R.Bobby@gmail.com</name>
+      <email2>Bobby, Ricky</email2>
+    </primaryContact>
+    <company>Menards</company>
+  </Customers>
+  <Customers/>
+  <Customers/>
+  <Customers/>
+</list>

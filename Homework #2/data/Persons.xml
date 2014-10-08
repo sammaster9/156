@@ -1,0 +1,64 @@
+<list>
+  <Persons>
+    <personCode>105a</personCode>
+    <name>Martin_Steve@yahoo.com</name>
+    <email2>Martin, Steve</email2>
+  </Persons>
+  <Persons>
+    <personCode>355b</personCode>
+    <name>R.Bobby@gmail.com</name>
+    <email2>Bobby, Ricky</email2>
+  </Persons>
+  <Persons>
+    <personCode>384z</personCode>
+    <name>T.Ackerman@yahoo.com</name>
+    <email2> Ackerman, Taylor</email2>
+  </Persons>
+  <Persons>
+    <personCode>75486</personCode>
+    <name> Sammaster6@gmail.com</name>
+    <email2>Connor, Sam</email2>
+  </Persons>
+  <Persons>
+    <personCode>4444t</personCode>
+    <name>Tucker.Hochstein@yahoo.com</name>
+    <email2>Hochstein, Tucker</email2>
+  </Persons>
+</list>
+<list>
+  <Address>
+    <street>555 West Arbor road</street>
+    <city> Lincoln</city>
+    <state> Ne</state>
+    <zipCode> 68512</zipCode>
+    <country>USA</country>
+  </Address>
+  <Address>
+    <street>123 Victory Lane</street>
+    <city>Daytona</city>
+    <state>Fl</state>
+    <zipCode>35812</zipCode>
+    <country>USA</country>
+  </Address>
+  <Address>
+    <street>7200 Silverthorn Drive</street>
+    <city>Lincoln</city>
+    <state>NE</state>
+    <zipCode>68521</zipCode>
+    <country>USA</country>
+  </Address>
+  <Address>
+    <street>7583 West Denton road</street>
+    <city> Lincoln</city>
+    <state>NE</state>
+    <zipCode>68506</zipCode>
+    <country>USA</country>
+  </Address>
+  <Address>
+    <street>7200 Silverthorn dr</street>
+    <city>Lincoln</city>
+    <state>Ne</state>
+    <zipCode>68521</zipCode>
+    <country>USA</country>
+  </Address>
+</list>

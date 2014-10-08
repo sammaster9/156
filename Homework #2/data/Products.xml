@@ -1,0 +1,22 @@
+<list>
+  <Equipment>
+    <productCode>b29e</productCode>
+    <productType>E</productType>
+    <productName>Cinco MIDI Organizer</productName>
+    <pricePerUnit>2500.0</pricePerUnit>
+  </Equipment>
+  <Licenses>
+    <productCode>90fa</productCode>
+    <productType>L</productType>
+    <productName>Cinco Long Distance Service</productName>
+    <serviceFee>2000.0</serviceFee>
+    <annualLicenseFee>12000.0</annualLicenseFee>
+  </Licenses>
+  <Consultations>
+    <productCode>3289</productCode>
+    <productType>C</productType>
+    <productName>Cinco-Fone Training</productName>
+    <consultantPersonCode>aef1</consultantPersonCode>
+    <hourlyFee>25.0</hourlyFee>
+  </Consultations>
+</list>
